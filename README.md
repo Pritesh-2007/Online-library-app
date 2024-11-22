@@ -11,3 +11,10 @@ Currently, two official plugins are available:
 # Online-library-app
 this is a small book system like other ecommerce sites can view list of books add filter it by category 
 >>>>>>> 2cb992d67a765d2914d2d9cd932d2b1d1bbaeb4d
+
+how to use it ?
+copy repositoory url 
+clone it in  your machine by clone command
+--->cd vite-project
+--->npm install
+then run --->npm run dev
